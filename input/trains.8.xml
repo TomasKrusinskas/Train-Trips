@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="ASCII"?>
+<trains>
+  <train version="3">
+    <id>aWdjqT3WSG</id>
+    <seats>250</seats>
+  </train>
+  <train version="3">
+    <id>aRLgQItX8n</id>
+    <seats>50</seats>
+  </train>
+  <train version="3">
+    <id>doXmSx6Uq8</id>
+    <seats>140</seats>
+  </train>
+  <train version="2">
+    <id>CuvyrJvDVU</id>
+    <seats>50</seats>
+  </train>
+  <train version="2">
+    <id>332tD1qleD</id>
+    <seats>140</seats>
+  </train>
+  <train version="1">
+    <id>gGWZ3pEvaR</id>
+    <seats>140</seats>
+  </train>
+  <train version="1">
+    <id>ckB7AV809N</id>
+    <seats>50</seats>
+  </train>
+  <train version="3">
+    <id>siz6sLmZU0</id>
+    <seats>50</seats>
+  </train>
+  <train version="2">
+    <id>EUBuNIrwmR</id>
+    <seats>50</seats>
+  </train>
+  <train version="1">
+    <id>yihCLzizU1</id>
+    <seats>80</seats>
+  </train>
+  <train version="1">
+    <id>yaDLQjNYK4</id>
+    <seats>50</seats>
+  </train>
+  <train version="2">
+    <id>CdMATW6Csi</id>
+    <seats>80</seats>
+  </train>
+  <train version="2">
+    <id>l9kvw2YiOc</id>
+    <seats>140</seats>
+  </train>
+  <train version="2">
+    <id>Or52DQ8mQU</id>
+    <seats>50</seats>
+  </train>
+  <train version="3">
+    <id>ZFMJGiqfUf</id>
+    <seats>50</seats>
+  </train>
+  <train version="2">
+    <id>4Epl6o0gZ4</id>
+    <seats>80</seats>
+  </train>
+  <train version="3">
+    <id>ev6662hc0k</id>
+    <seats>50</seats>
+  </train>
+  <train version="2">
+    <id>CRLtVfRx0e</id>
+    <seats>80</seats>
+  </train>
+  <train version="2">
+    <id>7Y2puPy8hl</id>
+    <seats>250</seats>
+  </train>
+  <train version="2">
+    <id>DLvXQNXK5P</id>
+    <seats>80</seats>
+  </train>
+  <train version="2">
+    <id>hNav1GReJd</id>
+    <seats>140</seats>
+  </train>
+  <train version="2">
+    <id>zj0mLJlFFI</id>
+    <seats>50</seats>
+  </train>
+  <train version="3">
+    <id>wI23vVZU01</id>
+    <seats>250</seats>
+  </train>
+  <train version="2">
+    <id>cIpZidGkKo</id>
+    <seats>140</seats>
+  </train>
+  <train version="1">
+    <id>8rM4Cloknv</id>
+    <seats>80</seats>
+  </train>
+  <train version="2">
+    <id>n36Ce1WuSv</id>
+    <seats>50</seats>
+  </train>
+  <train version="1">
+    <id>ptSomGshzI</id>
+    <seats>250</seats>
+  </train>
+  <train version="2">
+    <id>YdLXd54feH</id>
+    <seats>140</seats>
+  </train>
+  <train version="3">
+    <id>F0O5Icn5Hu</id>
+    <seats>250</seats>
+  </train>
+  <train version="2">
+    <id>POElNIAgWV</id>
+    <seats>250</seats>
+  </train>
+  <train version="2">
+    <id>SyOuGLcJwR</id>
+    <seats>140</seats>
+  </train>
+  <train version="2">
+    <id>C411buKtiG</id>
+    <seats>140</seats>
+  </train>
+  <train version="1">
+    <id>8MKX6Gp86G</id>
+    <seats>80</seats>
+  </train>
+  <train version="1">
+    <id>RGFpxr22Tq</id>
+    <seats>140</seats>
+  </train>
+  <train version="2">
+    <id>m29pJ8O2fT</id>
+    <seats>140</seats>
+  </train>
+  <train version="2">
+    <id>siz6sLmZU0</id>
+    <seats>250</seats>
+  </train>
+  <train version="3">
+    <id>qIAW81TxOq</id>
+    <seats>80</seats>
+  </train>
+  <train version="2">
+    <id>GOKqUOIRMV</id>
+    <seats>80</seats>
+  </train>
+  <train version="3">
+    <id>n36Ce1WuSv</id>
+    <seats>50</seats>
+  </train>
+  <train version="1">
+    <id>DaAWvFeZWb</id>
+    <seats>140</seats>
+  </train>
+</trains>

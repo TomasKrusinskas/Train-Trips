@@ -1,0 +1,2 @@
+stations.7.xml: The end-tag for element type "station" must end with a '>' delimiter.
+trains.4.xml: The element type "id" must be terminated by the matching end-tag "</id>".

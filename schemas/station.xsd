@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="stations">
+		<xs:complexType>
+			<xs:choice>
+				<xs:element name="station">
+					<xs:complexType>
+						<xs:all>
+							<xs:element name="id" type="xs:string"/>
+							<xs:element name="name" type="xs:string"/>
+						</xs:all>
+						<xs:attribute name="version" type="xs:positiveInteger"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	
+</xs:schema>

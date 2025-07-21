@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="trips">
+		<xs:complexType>
+			<xs:choice>
+				<xs:element name="trip">
+					<xs:complexType>
+						<xs:all>
+							<xs:element name="id" type="xs:string"/>
+							<xs:element name="train" type="xs:string"/>
+							<xs:element name="stations">
+								<xs:complexType>
+									<xs:choice>
+										<xs:element name="station" type="xs:string"/>
+									</xs:choice>
+								</xs:complexType>
+							</xs:element>
+						</xs:all>
+                        <xs:attribute name="version" type="xs:positiveInteger"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	
+</xs:schema>
